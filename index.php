@@ -29,6 +29,10 @@
 	    <input type="text" name="interest_rate"
                    value="<?php echo htmlspecialchars($interest_rate); ?>">
 	    <br>
+
+	    <label>Number of Years:</label>
+	    <input type="text" name="years"
+	           value="<?php echo htmlspecialchars($years); ?>">
 	</div>
 
 	<div id="buttons">
