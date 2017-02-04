@@ -33,6 +33,8 @@
 	    <label>Number of Years:</label>
 	    <input type="text" name="years"
 	           value="<?php echo htmlspecialchars($years); ?>">
+	    <br>
+
 	</div>
 
 	<div id="buttons">
